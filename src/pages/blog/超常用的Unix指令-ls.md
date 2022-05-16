@@ -51,7 +51,7 @@ $ ls -ltr
 ```bash
 $ ls -lS
 ```
-![以檔案大小排序](/images/34eadbfa2e1241f59eb0a8f1dfc64e6fbc2764632371c9e2bb9437503a1ef15a.png)  
+![以檔案大小排序](/images/uploads/34eadbfa2e1241f59eb0a8f1dfc64e6fbc2764632371c9e2bb9437503a1ef15a.png)  
 
 
 想知道更多關於: [ls](https://man7.org/linux/man-pages/man1/ls.1.html)
