@@ -21,7 +21,7 @@ ls 基本用法
 ```bash
 $ ls 
 ```
-![ls 基本用法](/images/f69b45f945fc1f1306866ea973ca61eeb4508d0364038697045f2462ba1cb700.png)  
+![ls 基本用法](/images/uploads/f69b45f945fc1f1306866ea973ca61eeb4508d0364038697045f2462ba1cb700.png)  
 
 
 以清單模式顯示
@@ -29,7 +29,7 @@ $ ls
 ```bash
 $ ls -l
 ```
-![以清單模式顯示](/images/00a6c6f865c97f6b6a43fc90df4c9f183d20a3c3dda5099ffe1b4bad8e7fb2d5.png)  
+![以清單模式顯示](/images/uploads/00a6c6f865c97f6b6a43fc90df4c9f183d20a3c3dda5099ffe1b4bad8e7fb2d5.png)  
 
 
 顯示隱藏檔案
@@ -37,14 +37,14 @@ $ ls -l
 ```bash
 $ ls -a
 ```
-![顯示隱藏檔案](/images/deefc4eb3c3e957ef3a193b80904e99521153b1a287b2bdcd1a689ee40df88e4.png)  
+![顯示隱藏檔案](/images/uploads/deefc4eb3c3e957ef3a193b80904e99521153b1a287b2bdcd1a689ee40df88e4.png)  
 
 以時間排序
 ===
 ```bash
 $ ls -ltr
 ```
-![以時間排序](../images/16119d3502a26a2108c7eccef4fe8ffed7d2aec790d4ec8a6b922212b3ac9da7.png)  
+![以時間排序](../images/uploads/16119d3502a26a2108c7eccef4fe8ffed7d2aec790d4ec8a6b922212b3ac9da7.png)  
 
 以檔案大小排序
 ===
