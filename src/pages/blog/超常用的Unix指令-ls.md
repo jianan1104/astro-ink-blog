@@ -44,7 +44,7 @@ $ ls -a
 ```bash
 $ ls -ltr
 ```
-![以時間排序](../images/uploads/16119d3502a26a2108c7eccef4fe8ffed7d2aec790d4ec8a6b922212b3ac9da7.png)  
+![以時間排序](/images/uploads/16119d3502a26a2108c7eccef4fe8ffed7d2aec790d4ec8a6b922212b3ac9da7.png)  
 
 以檔案大小排序
 ===
