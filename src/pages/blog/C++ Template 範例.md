@@ -2,7 +2,7 @@
 title: C++ Template 範例
 description: C/C++ Template 範例，實現不同變數類型的簡單加減法
 tags:
-  - C/C++
+  - c/c++
 author: Jian-An, Lin
 authorTwitter: linjianan_1104
 date: 2022-01-06 22:52:55
