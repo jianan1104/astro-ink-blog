@@ -1,13 +1,13 @@
 ---
 title: C++ Template 範例
-date: 2022-01-06 22:52:55
-tags: 
-  - C/C++
 description: C/C++ Template 範例，實現不同變數類型的簡單加減法
+tags:
+  - C/C++
+author: Jian-An, Lin
+authorTwitter: linjianan_1104
+date: 2022-01-06 22:52:55
 ---
-
-
-```c++
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -43,5 +43,4 @@ int main(int argc, const char * argv[]) {
     cout << m2.add() << endl << m2.sub() << endl;
     return 0;
 }
-
 ```
