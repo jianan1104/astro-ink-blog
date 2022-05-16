@@ -1,4 +1,5 @@
 ---
+layout: $/layouts/post.astro
 title: C++ Template 範例
 description: C/C++ Template 範例，實現不同變數類型的簡單加減法
 tags:
